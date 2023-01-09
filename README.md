@@ -1,2 +1,2 @@
-# gso-media
-Site files for GSO Media
+# GSO-media
+Site files
